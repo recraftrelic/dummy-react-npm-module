@@ -18,6 +18,8 @@
   "homepage": "https://github.com/recraftstudio/dummy-react-npm-module#readme",
   "dependencies": {
     "@babel/cli": "^7.1.5",
-    "@babel/core": "^7.1.6"
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "@babel/preset-react": "^7.0.0"
   }
 }
