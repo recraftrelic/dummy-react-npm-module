@@ -1,0 +1,23 @@
+{
+  "name": "dummy-react-npm-module",
+  "version": "1.0.0",
+  "description": "A dummy react npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recraftstudio/dummy-react-npm-module.git"
+  },
+  "author": "Manoj Singh Negi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/recraftstudio/dummy-react-npm-module/issues"
+  },
+  "homepage": "https://github.com/recraftstudio/dummy-react-npm-module#readme",
+  "dependencies": {
+    "@babel/cli": "^7.1.5",
+    "@babel/core": "^7.1.6"
+  }
+}
