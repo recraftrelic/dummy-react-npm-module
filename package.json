@@ -17,6 +17,10 @@
     "url": "https://github.com/recraftstudio/dummy-react-npm-module/issues"
   },
   "homepage": "https://github.com/recraftstudio/dummy-react-npm-module#readme",
+  "peerDependencies": {
+    "react": "^16.6.1",
+    "react-dom": "^16.6.3"
+  },
   "dependencies": {
     "@babel/cli": "^7.1.5",
     "@babel/core": "^7.1.6",
