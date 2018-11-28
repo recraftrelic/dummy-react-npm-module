@@ -21,10 +21,12 @@
     "react": "^16.6.1",
     "react-dom": "^16.6.3"
   },
-  "dependencies": {
+  "devDependencies": {
     "@babel/cli": "^7.1.5",
     "@babel/core": "^7.1.6",
     "@babel/preset-env": "^7.1.6",
-    "@babel/preset-react": "^7.0.0"
+    "@babel/preset-react": "^7.0.0",
+    "react": "^16.6.1",
+    "react-dom": "^16.6.3"
   }
 }
